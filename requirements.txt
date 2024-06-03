@@ -1,0 +1,19 @@
+numpy
+scipy
+pandas
+PySerial
+jupyterlab
+matplotlib
+seaborn
+sympy
+jax
+cvxpy
+nbconvert
+ipywidgets
+tqdm
+ffmpeg-python
+hj-reachability
+plotly
+ipympl
+# python -m pip install jax-metal # for apple silicon
+git+https://github.com/google/trajax
